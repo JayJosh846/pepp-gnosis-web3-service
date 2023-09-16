@@ -5,6 +5,7 @@ test/
 
 #files
 .openzeppelin/.session
+.openzeppelin/
 .env
 docker-compsers.yml
 
