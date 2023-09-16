@@ -2,10 +2,10 @@
 node_modules/
 dhparam/
 test/
+.openzeppelin/
 
 #files
 .openzeppelin/.session
-.openzeppelin/
 .env
 docker-compsers.yml
 
