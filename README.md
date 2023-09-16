@@ -17,18 +17,23 @@ Pepp is a decentralized ride-sharing app and a peer-to-peer platform that connec
 
 # Transactions 
 - Transaction Hash 1 - 0x567256812cf3d422938832a606a9eb558fed5b03edda69db9526410038f1019f
+
 Mint Operation. Can be found at - https://gnosis-chiado.blockscout.com/tx/0x567256812cf3d422938832a606a9eb558fed5b03edda69db9526410038f1019f
 
 - Transaction Hash 2 - 0xcf0ba1b45659038a094d07340b29e63253c99cd02f52908f9c75e5e09f55e73e
+
 Mint Operation. Can be found at - https://gnosis-chiado.blockscout.com/tx/0xcf0ba1b45659038a094d07340b29e63253c99cd02f52908f9c75e5e09f55e73e
 
 - Transaction Hash 3 - 0xe0897ab98c491d837ce0abf6fa7fc0d2da2f75f154206c27f4f3659074e2e5fb
+
 Transfer Operation. Can be found at - https://gnosis-chiado.blockscout.com/tx/0xe0897ab98c491d837ce0abf6fa7fc0d2da2f75f154206c27f4f3659074e2e5fb
  
 - Transaction Hash 4 - 0x3342c15c4a42e344b2f2615cfe38f01efab4bbee9faee7cc2ece2baf72b433e5
+
 Redeem Operation. Can be found at - https://gnosis-chiado.blockscout.com/tx/0x3342c15c4a42e344b2f2615cfe38f01efab4bbee9faee7cc2ece2baf72b433e5
 
 - Transaction Hash 5 - 0x717598891b4f0f6755da2004519078b33f422a3689ff505941f8c2f2061c3ddd
+
 Mint Operation. Can be found at - https://gnosis-chiado.blockscout.com/tx/0x717598891b4f0f6755da2004519078b33f422a3689ff505941f8c2f2061c3ddd
 
 
