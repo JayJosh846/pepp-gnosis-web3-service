@@ -1,0 +1,68 @@
+# Introduction 
+PEPP Technologies Blockchain ERC20 and token for disbursement of fund.
+# Getting Started
+TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+1.	Nodejs ^10
+2.	Openzeppelin contract upgradeablity
+
+# Build and Test
+1. npm i
+2. npm start 
+
+
+<Project Title>
+
+ 
+
+# Description 
+ 
+Pepp is a decentralized ride-sharing app and a peer-to-peer platform that connects riders directly with drivers. The app uses blockchain technology to create a secure and transparent network where drivers and riders can interact without needing a central authority. The app uses smart contracts to facilitate the transaction between the rider and driver, which helps simplify payments and ensures transactions are instant.
+
+ 
+
+# Smart Contract 
+
+ 
+
+- Network: (testnet)
+
+- Address: 0xdd40Ea9AEB5975eA7fcd6113425839bC44842B87
+
+- gnosisscan.io: https://gnosis-chiado.blockscout.com/address/0xdd40Ea9AEB5975eA7fcd6113425839bC44842B87
+
+ 
+
+# Transactions 
+ 
+
+- Transaction Hash 1 - 0x567256812cf3d422938832a606a9eb558fed5b03edda69db9526410038f1019f
+Mint Operation. Can be found at - https://gnosis-chiado.blockscout.com/tx/0x567256812cf3d422938832a606a9eb558fed5b03edda69db9526410038f1019f
+
+- Transaction Hash 2 - 0xcf0ba1b45659038a094d07340b29e63253c99cd02f52908f9c75e5e09f55e73e
+Mint Operation. Can be found at - https://gnosis-chiado.blockscout.com/tx/0xcf0ba1b45659038a094d07340b29e63253c99cd02f52908f9c75e5e09f55e73e
+
+- Transaction Hash 3 - 0xe0897ab98c491d837ce0abf6fa7fc0d2da2f75f154206c27f4f3659074e2e5fb
+Transfer Operation. Can be found at - https://gnosis-chiado.blockscout.com/tx/0xe0897ab98c491d837ce0abf6fa7fc0d2da2f75f154206c27f4f3659074e2e5fb
+ 
+- Transaction Hash 4 - 0x3342c15c4a42e344b2f2615cfe38f01efab4bbee9faee7cc2ece2baf72b433e5
+Redeem Operation. Can be found at - https://gnosis-chiado.blockscout.com/tx/0x3342c15c4a42e344b2f2615cfe38f01efab4bbee9faee7cc2ece2baf72b433e5
+
+
+# Originality 
+ 
+
+- This is an original work by our team. We build on top of the following tooling: ...
+
+ 
+
+Bonus
+
+ 
+
+- Demo: <Link>
+
+- Video: <Link>
+
+- Tweet: <Link>
+
+
